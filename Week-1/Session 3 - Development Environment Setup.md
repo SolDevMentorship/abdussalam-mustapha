@@ -1,8 +1,8 @@
-### Day 2: 100Devs Mentorship
+# Day 2: 100Devs Mentorship
 
 Date: 9th April, 2025
 
-# What I did
+## What I did
 
 - Installed the Rust toolchain
 - Install Solana CLI tools
@@ -11,11 +11,11 @@ Date: 9th April, 2025
 - Generated a local wallet and requested test SOL via airdrop
 - Explored common Solana CLI commands via a cheat sheet
 
-# Resources
+## Resources
 
 [Solana CLI cheatsheet by @dvrvsimi](https://gist.github.com/dvrvsimi/500f02ee94957b14aa9755c67f669436)
 
-# Build in Public
+## Build in Public
 
 Twitter link
 
