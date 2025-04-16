@@ -7,3 +7,5 @@
 - Session 4: Getting Started with Rust Programming
 
 ## Week 2
+
+- Session 4: Wrote a program for a guessing game
